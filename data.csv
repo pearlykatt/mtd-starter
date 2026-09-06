@@ -1,6 +1,7 @@
-Category,French,English,Speaker,Audio,Example,Example Audio,Example Definition
-animals,alouette,lark,dhd,assets/audio/alouette.mp3,L'alouette chante le matin,assets/audio/alouette1.mp3,The lark sings in the morning
-animals,belette,weasel,dhd,assets/audio/belette.mp3,J'ai vu une petite belette,assets/audio/belette1.mp3,I saw a little weasel
-animals,carcajou,wolverine,dhd,assets/audio/carcajou.mp3,Le carcajou a toujours faim,assets/audio/carcajou1.mp3,The wolverine is always hungry
-vegetables,courgette,zucchini,dhd,assets/audio/courgette.mp3,J'ai cueilli une courgette,assets/audio/courgette1.mp3,I picked a zucchini
-minerals,granite,granite,dhd,assets/audio/granite.mp3,Le granite vient de St-Tite,assets/audio/granite1.mp3,The granite comes from St-Tite
+Hanzaban,English,Type,Category,Example,Example English
+saefuan,happy,adjective,Feelings,Nai saefuan.,She is happy.
+fengan,be sad,verb,Feelings,Nai fengan.,She is sad.
+tien,like,verb,Feelings,Nai tien pe.,She likes it.
+ao,want,verb,Feelings,Nai ao pe.,She wants it.
+neng,can,modal,Modals,Nai neng mij.,She can make it.
+lazim,need,modal,Modals,Nai lazim chi.,She needs food.
