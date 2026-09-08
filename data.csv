@@ -35,6 +35,8 @@ tag,room,noun,preposition
 sakan,building,noun,preposition
 yuy,city/village,noun,preposition
 yuyal,country,noun,preposition
+una,near,preposition,preposition
+mian,inside,preposition,preposition
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 kaf wen,how,markers,markers
 ha wen,when,markers,markers
@@ -136,7 +138,7 @@ khian,respect,noun,feelings
 xiao,laugh,noun,feelings
 haqu,have fun,adjective,feelings
 haai,be in love,noun,feelings
-khaan,be angry,adjective,feelings
+khaan,be angry/rude,adjective,feelings
 fankhan,fear,noun,feelings
 hail,hate,verb,feelings
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
@@ -178,3 +180,103 @@ hisab,computer,noun,inventions
 lelishuke,book,noun,inventions
 chi,food,noun,inventions
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
+bakh,part,noun,physical structure
+tang,rope-shaped,noun,physical structure 
+pan,board-shaped,verb,physical structure
+stick,stick-shaped,noun,physical strucutre 
+substance,substance,noun,physical structure
+shisha,glass,noun,physical structure 
+pasha,cloth,noun,physical structure 
+kaghaz,paper,noun,physical structure 
+shakl,shape,noun,physical structure
+solid,solid,adjective,physical structure 
+liquid,liquid,adjective,physical structure 
+hava,gas/air,noun,physical structure 
+sova,powder,noun,physical structure
+sada,straight,adjective,physical structure
+khat,line,direction,physical structure 
+dai,circle,noun,physical structure
+sua,hole/opening,noun,physical structure
+jismi,physical,adjective,physical structure
+⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
+hao,good,adjective,qualities  
+zhen,true,adjective,qualities
+tawang,long,adjective,qualities  
+saai,fast,adjectives,qualities 
+duan,warm,adjective,qualities 
+hihi,healthy,adjective,qualities 
+qing,light,adjective,qualities
+muhen,important,adjective,qualities 
+hay,unusual,adjective,qualities 
+gan,clean,adjectives,qualities
+qiqa,strong,adjective,qualities 
+gis,have energy,noun,qualities 
+soft,soft,adjective,qualities 
+shi,wet,adjective,qualities 
+hail-pe,difficult,adjective,qualities
+es-pe,easy,adjective,qualities
+di-pe,different,adjective,qualities
+budan,new,adjective,qualities
+kako,cold,adjectives,qualities
+⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
+zuo,exist,verb,states
+zend,be alive,verb,states
+vej,be in a state,verb,states
+miya,be named,verb,states
+khaan,be tense,verb,states
+shutan,of quantity,verb,states
+jiken,be in contact,verb,states
+akin,reside,verb,states
+ejin,be in danger,verb,states
+naz,sit,verb,states
+deng,wait,verb,states
+nemi,sleep,verb,states
+neo,cover,verb,states
+kai,be open,verb,states
+xiangsi,similar,adjective,states
+muna,be in order,verb,states
+mola,stick out,verb,states
+amuz,vertical,adjective,states
+sua/kai,opening,noun,states
+⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
+guah,location,noun,location
+xia,top,noun,location
+you,right,noun,location
+yazou,left,noun,location
+fow,front,noun,location
+cent,center,noun,location
+foul,side,noun,location
+⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
+ha,time,noun,time
+bey,present,noun,time
+cei,past,noun,time
+xam,would,modal, time
+pijo,already,adverb,time
+mejo,regularly,adverb,time
+fo,year,noun,time
+fto,day,noun,time
+to,hour,noun,time
+oh,minute,noun,time
+puch,occurrence,noun,time
+fech,next,adjective,time
+⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
+sadi,informal,prefix,prefixes
+khaan,rude/angry,prefix,prefixes
+zhi,only,prefix,prefixes
+hatta,even,prefix,prefixes
+kha,emphasis,prefix,prefixes
+ziyad,too much,prefix,prefixes
+kamil,completely,prefix,prefixes
+duoza,more/extra,prefix,prefixes
+⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
+ze,0,number,numbers
+hi,1,number,numbers
+dei,2,number,numbers
+tan,3,number,numbers
+shi,4,number,numbers
+wan,5,number,numbers
+su,6,number,numbers
+seb,7,number,numbers
+tie,8,number,numbers
+wu,9,number,numbers
+hu,10,number,numbers
