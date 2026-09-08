@@ -38,10 +38,10 @@ wen,why,markers,markers
 aga,if,conjuction,logic
 chu,because,conjuction,logic
 o,and,conjuction,logic
-be,be,logic,logic
-do,do,logic,logic
+be,be,verb,logic
+do,do,verb,logic
 ol,or,conjuction,logic
-yema,maybe,logic,logic
+yema,maybe,adverb,logic
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 nae,living person,noun,noun
 bae,non living,noun,noun
