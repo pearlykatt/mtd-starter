@@ -1,8 +1,5 @@
 Hanzaban,English,Type,Category  Hanzaban,English,Type,Category
-mi,me/i,pronoun,pronouns  paz,cook,verb,activity kaam,work,verb,activity  kashi,draw,verb,activity eat,eat,verb,activity dam,breathe,verb,activity 
-khaid,buy,verb,activitity
-hal,(re)solve,noun,activity
-jadu = do magic
+mi,me/i,pronoun,pronouns 
 nah,you,pronoun,pronouns
 nat,self,pronoun,pronouns
 naxiang,each other,pronoun,pronouns
@@ -59,3 +56,16 @@ ka,colour,noun,noun
 zi,small,noun,noun
 ma,big,noun,noun
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
+paz,cook,verb,activity
+kaam,work,verb,activity
+kashi,draw,verb,activity
+eat,eat,verb,activity
+dam,breathe,verb,activity 
+khaid,buy,verb,activitity
+hal,(re)solve,noun,activity
+jadu,do magic,verb,activity
+git,give,verb,activity
+toxe,take,verb,activity
+mij,make,verb,activity
+gegu,get,verb,activity
+pola,put,verb,activity
