@@ -35,12 +35,12 @@ gu wen,where,markers,markers
 nae wen,who,markers,markers
 wen,why,markers,markers
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
-aga,if,logic,logic
-chu,because,logic,logic
-o,and,logic,logic
+aga,if,conjuction,logic
+chu,because,conjuction,logic
+o,and,conjuction,logic
 be,be,logic,logic
 do,do,logic,logic
-ol,or,logic,logic
+ol,or,conjuction,logic
 yema,maybe,logic,logic
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 nae,living person,noun,noun
