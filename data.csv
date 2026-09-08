@@ -28,6 +28,13 @@ taba,exchange,prepositions,prepositions
 hou,after,prepositions,prepositions
 jian,among,prepositions,prepositions
 jiana,alongside,prepositions,prepositions
+zu-khat,between,preposition,preposition
+zu-neng,during,preposition,preposition
+bou,before,preposition,preposition
+tag,room,noun,preposition
+sakan,building,noun,preposition
+yuy,city/village,noun,preposition
+yuyal,country,noun,preposition
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 kaf wen,how,markers,markers
 ha wen,when,markers,markers
@@ -163,13 +170,6 @@ space,space,noun,nature
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
 gu-ghamah,home,noun,places
 ghamah,house,noun,places
-zu-khat,between,preposition,preposition
-zu-neng,during,preposition,preposition
-bou,before,preposition,preposition
-tag,room,noun,preposition
-sakan,building,noun,preposition
-yuy,city/village,noun,preposition
-yuyal,country,noun,preposition
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
 money,money,noun,inventions 
 document,document,noun,inventions 
@@ -177,3 +177,4 @@ gadi,vehicle,noun,inventions
 hisab,computer,noun,inventions 
 lelishuke,book,noun,inventions
 chi,food,noun,inventions
+⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
