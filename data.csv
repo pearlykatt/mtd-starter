@@ -175,11 +175,8 @@ yuy,city/village,noun,preposition
 yuyal,country,noun,preposition
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
 money,money,noun,inventions 
-document,document, 
-
-gadi = vehicle 
-
-hisab = computer 
-
+document,document,noun,inventions 
+gadi,vehicle,noun,inventions 
+hisab,computer,noun,inventions 
 lelishuke,book,noun,inventions
 chi,food,noun,inventions
