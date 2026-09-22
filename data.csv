@@ -128,6 +128,7 @@ guo,surpass,verb,aggression
 gunah,commit,verb,agression 
 anjam,crime,noun,agression 
 khab,damaged,verb,agression
+sitam,cruel,adjective,aggression
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 mean,feel,verb,feelings
 fengan,be sad,adjective,feelings
@@ -141,8 +142,10 @@ haai,be in love,noun,feelings
 khaan,be angry/rude,adjective,feelings
 fankhan,fear,noun,feelings
 hail,hate,verb,feelings
+boo,scary,adjective,feelings
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
 tinshe,hear/listen,verb,sensory
+bu-qing,dark,adjective,sensory
 bui,smell,noun,sensory
 khash,taste,noun,sensory
 tamak,be concentrated,adjective,mind
@@ -152,6 +155,8 @@ jide,remember,verb,mind
 tasiang,imagine,verb,mind
 fahmin,understand,verb,mind
 enxuan,choose/decide,verb,mind
+clevel,clever,adjective,mind
+ahmaq,foolish,adjective,mind
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
 nalig,adult,noun,people 
 nali,parent,noun,people 
@@ -218,6 +223,17 @@ es-pe,easy,adjective,qualities
 di-pe,different,adjective,qualities
 budan,new,adjective,qualities
 kako,cold,adjectives,qualities
+zhiba,beautiful,adjective,qualities
+kind,kind,adjective,qualities
+dilav,brave,adjective,qualities
+quvat,powerful,adjective,qualities
+kamzol,weak,adjective,qualities
+magical,magical,adjective,qualities
+ajab,wonderful,adjective,qualities
+misteli,mysterious,adjective,qualities
+talai,golden,adjective,qualities
+simai,silver,adjective,qualities
+dianeh,strange,adjective,qualities
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 zuo,exist,verb,states
 zend,be alive,verb,states
@@ -238,6 +254,16 @@ muna,be in order,verb,states
 mola,stick out,verb,states
 amuz,vertical,adjective,states
 sua/kai,opening,noun,states
+magiant,enchanted,adjective,states
+laanat,cursed,adjective,states
+peaceful,peaceful,adjective,states
+hidden,hidden,adjective,states
+khatal,dangerous,adjective,states
+aman,safe,adjective,states
+muda,young,adjective,states
+mudo,old,adjective,states
+kaye,rich,adjective,states
+kaya,poor,adjective,states
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 guah,location,noun,location
 xia,top,noun,location
@@ -259,6 +285,7 @@ to,hour,noun,time
 oh,minute,noun,time
 puch,occurrence,noun,time
 fech,next,adjective,time
+ancient,ancient,adjective,time
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 sadi,informal,prefix,prefixes
 khaan,rude/angry,prefix,prefixes
