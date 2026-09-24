@@ -87,6 +87,7 @@ tuchal,think,verb,activity
 luhoz,learn,verb,activity
 mel,teach,verb,activity
 fosho,forget,verb,activity
+folu,sell,verb,activity 
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 yomak,have,verb,control 
 kon,control,noun,control 
@@ -110,6 +111,11 @@ mandan,stay,noun,movement
 landan,leave,verb,movement
 biya,come,verb,movement
 ji-pe,return,verb,movement
+senbal,throw,verb,movement
+bawang,carry,verb,movement
+stop,stop,verb,movement
+biya-pe,bring,verb,movement
+ji,send,verb,movement
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 sho,speak,verb,language 
 yuyan,language,noun,language 
@@ -176,7 +182,10 @@ dakh,tree,noun,nature
 gol,flower,noun,nature 
 stone,stone,noun,nature 
 sky,sky,noun,nature 
-space,space,noun,nature  
+space,space,noun,nature
+shuiab-sky,rain,noun,nature
+han-daiqing,moon,noun,nature
+ftoha-daiqing,sun,noun,nature
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
 gu-ghamah,home,noun,places
 ghamah,house,noun,places
