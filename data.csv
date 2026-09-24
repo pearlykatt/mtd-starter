@@ -37,6 +37,7 @@ yuy,city/village,noun,preposition
 yuyal,country,noun,preposition
 una,near,preposition,preposition
 mian,inside,preposition,preposition
+cong,from,preposition,prepositions
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 kaf wen,how,markers,markers
 ha wen,when,markers,markers
@@ -51,6 +52,7 @@ be,be,verb,logic
 do,do,verb,logic
 ol,or,conjuction,logic
 yema,maybe,adverb,logic
+yes,yes,adverb,logic
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 nae,living person,noun,noun
 bae,non living,noun,noun
@@ -87,7 +89,8 @@ tuchal,think,verb,activity
 luhoz,learn,verb,activity
 mel,teach,verb,activity
 fosho,forget,verb,activity
-folu,sell,verb,activity 
+folu,sell,verb,activity
+lose,lose,verb,activity
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 yomak,have,verb,control 
 kon,control,noun,control 
@@ -136,6 +139,7 @@ gunah,commit,verb,agression
 anjam,crime,noun,agression 
 khab,damaged,verb,agression
 sitam,cruel,adjective,aggression
+kill,kill,verb,aggression
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 mean,feel,verb,feelings
 fengan,be sad,adjective,feelings
@@ -155,6 +159,7 @@ tinshe,hear/listen,verb,sensory
 bu-qing,dark,adjective,sensory
 bui,smell,noun,sensory
 khash,taste,noun,sensory
+sensa,touch,verb,sensory
 tamak,be concentrated,adjective,mind
 bava,believe,verb,mind
 dan,know,verb,mind
@@ -197,6 +202,7 @@ hisab,computer,noun,inventions
 lelishuke,book,noun,inventions
 chi,food,noun,inventions
 chil,drink,verb,inventions
+yad,bag,noun,inventions
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔ 
 bakh,part,noun,physical structure
 tang,rope-shaped,noun,physical structure 
@@ -277,6 +283,9 @@ muda,young,adjective,states
 mudo,old,adjective,states
 kaye,rich,adjective,states
 kaya,poor,adjective,states
+kaiansky,wake,verb,states
+dibian-pe,change,verb,states
+cand,close,verb,states
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 guah,location,noun,location
 xia,top,noun,location
@@ -299,6 +308,10 @@ oh,minute,noun,time
 puch,occurrence,noun,time
 fech,next,adjective,time
 ancient,ancient,adjective,time
+baak,early,adjective,time
+laak,late,adjective,time
+zalai,still,adverb,time
+as-jia,winter,noun,time
 ⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔,⏔⏔⏔⏔
 sadi,informal,prefix,prefixes
 khaan,rude/angry,prefix,prefixes
